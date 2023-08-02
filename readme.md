@@ -10,6 +10,8 @@
 <p>Utilizei LocalStorage para armazenamento dos dados</p>
 <hs></hs>
 <h5>Passo a passo para rodar o projeto.</h5>
-<p>Disponibilizado o deploy da aplicação para rodar do gitHub Pages</p>
+<p> - Disponibilizado o deploy da aplicação para rodar do gitHub Pages</p>
+<p> - Caso o Deploy não funcione o armazenamento no localStorage, será necessário realizar o download e rodar a página com o live server</p>
+
 
 
