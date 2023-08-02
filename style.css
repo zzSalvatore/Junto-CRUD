@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+    height: 100vh;
+    opacity: 0.93;
+    position: fixed;
+}
+
+
+main{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+form{
+    width: 50%;
+    align-self: center;
+    margin: 3em;
+}
+
+.title{
+    color: rgb(255 157 30);
+    margin: 1em 0px 0.3em;
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+label{
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+select{
+    cursor: pointer;
+}
+
+div{
+    margin-bottom: 0.30em;
+}
+
+.container__button > .btn{
+    margin-top: 1em;
+}
+
+#exibirDados{
+    background-color: #fff507;
+    font-weight: 600;
+}
+
+#exibe-sinistros{
+    width: 50%;
+    align-self: center;
+}
+
+#exibe-sinistros > div{
+    padding: 1em;
+    margin-bottom: 1em;
+    color: white;
+    box-shadow: #022543 1px 1px 25px;
+}
+
+/* Modal */ 
+
+.modal-header{
+    margin: 0;
+    font-size: 22px;
+}
+
+.modal-body{
+    background-color: #000000ba;
+    margin: 0;
+}
+
+.modal-body > h2{
+ color: #c56ef9;
+}
+
+.modal-body > input{
+    color: #c56ef9;
+}
